@@ -1,0 +1,9 @@
+{
+  "name": "crashfacts-backend",
+  "version": "1.0.0",
+  "description": "\"backend of the crashfacts application, final project of the BEDU Javascript fullstack bootcamp.\"",
+  "main": "index.js",
+  "repository": "git@github.com:alexverdin/crashfacts-backend.git",
+  "author": "AlexVerdin",
+  "license": "MIT"
+}
