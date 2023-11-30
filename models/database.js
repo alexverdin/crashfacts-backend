@@ -7,7 +7,7 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, proces
   dialect: 'mysql'
 });
 
-module.exports = sequelize;
+exports.sequelize = sequelize;
 
 exports.connect = async function(){
     try {
